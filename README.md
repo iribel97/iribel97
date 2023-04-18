@@ -4,8 +4,8 @@
   <h3> Actualmente estudiante de la carrera de Tecnologías de la Información de la Universidad de Guayaquil y programadora Full Stack en desarrollo. Me gusta estar constantemente aprendiendo y mejorando mis habilidades
   </h3>
 </div>
-##
----
+
+
 ### Contactame:
 
 - email 1: **irinaochoa32@gmail.com**
