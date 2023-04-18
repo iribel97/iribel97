@@ -1,5 +1,9 @@
 ![https://github.com/iribel97](https://github.com/iribel97/iribel97/blob/main/Bienvenidos.png)
 ##
+<div id="header" align="center">
+  <h3 center> Actualmente estudiante de la carrera de Tecnologías de la Información de la Universidad de Guayaquil y programadora Full Stack en desarrollo. Me gusta estar constantemente aprendiendo y mejorando mis habilidades
+  </h3>
+</div>
 <!--
 **iribel97/iribel97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
