@@ -13,14 +13,18 @@
 
 
 ##
-[![iribel97's GitHub stats](https://github-readme-stats.vercel.app/api?username=iribel97)](https://github.com/iribel97/github-readme-stats)
+
 | <a href="https://github.com/iribel97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iribel97&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Irina's github stats" /></a> | <a href="https://github.com/iribel97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iribel97&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iribel97&theme=cobalt&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iribel97&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
+
+[![iribel97's GitHub stats](https://github-readme-stats.vercel.app/api?username=iribel97)](https://github.com/iribel97/github-readme-stats)
+
 **iribel97/iribel97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 | <a href="https://github.com/iribel97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iribel97&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Irina's github stats" /></a> | <a href="https://github.com/iribel97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iribel97&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 Here are some ideas to get you started:
