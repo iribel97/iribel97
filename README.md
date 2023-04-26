@@ -15,12 +15,12 @@
 ##
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iribel97&show_icons=true&include_all_commits=true&count_private=true&theme=buefy" alt="Irina's GitHub stats">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iribel97&theme=buefy&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="Irina's Streak of GitHub Commits"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=iribel97&show_icons=true&include_all_commits=true&count_private=true&theme=moltack" alt="Irina's GitHub stats">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iribel97&theme=moltack&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="Irina's Streak of GitHub Commits"></a>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iribel97&layout=compact&theme=buefy" alt="Irina's top languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iribel97&layout=compact&theme=moltack" alt="Irina's top languages">
 </p>
 
 
