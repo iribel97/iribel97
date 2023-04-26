@@ -13,7 +13,7 @@
 
 
 ##
-|[![iribel97's GitHub stats](https://github-readme-stats.vercel.app/api?username=iribel97)](https://github.com/anuraghazra/github-readme-stats)
+[![iribel97's GitHub stats](https://github-readme-stats.vercel.app/api?username=iribel97)](https://github.com/iribel97/github-readme-stats)
 
 
 
