@@ -44,16 +44,20 @@
 </p>
 
 
----
-
-![Irina's GitHub stats](https://github-readme-stats.vercel.app/api?username=iribel97&show_icons=true\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&theme=moltack\&rank_icon=github)
+## Estadisticas
 
 
-##
 
 <p align="left">
  
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iribel97&theme=moltack&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="Irina's Streak of GitHub Commits"></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iribel97&theme=ambient-gradient&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="Irina's Streak of GitHub Commits"></a>
+  
+</p>
+
+![Irina's GitHub stats](https://github-readme-stats.vercel.app/api?username=iribel97&show_icons=true\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&theme=moltack\&rank_icon=github)
+
+<p align="left">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iribel97&layout=compact&theme=moltack" alt="Irina's top languages">
 </p>
 
@@ -61,6 +65,8 @@
 <!--
 
 [![iribel97's GitHub stats](https://github-readme-stats.vercel.app/api?username=iribel97)](https://github.com/iribel97/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iribel97&theme=ambient-gradient)](https://git.io/streak-stats)
 
  <img src="https://github-readme-stats.vercel.app/api?username=iribel97&show_icons=true&include_all_commits=true&count_private=true&theme=moltack" alt="Irina's GitHub stats">
 
