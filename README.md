@@ -38,17 +38,10 @@
 
 ## Estadisticas
 
+![Irina's Streak of GitHub Commits](https://streak-stats.demolab.com?user=iribel97&theme=moltack&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)
+![Irina's GitHub stats](https://github-readme-stats.vercel.app/api?username=iribel97&show_icons=true&theme=moltack&rank_icon=github)
+![Irina's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iribel97&layout=compact&theme=moltack)
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=iribel97&theme=moltack&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="Irina's Streak of GitHub Commits">
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=iribel97&show_icons=true&theme=moltack&rank_icon=github" alt="Irina's GitHub stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iribel97&layout=compact&theme=moltack" alt="Irina's top languages">
-</p>
 
 <!--
 
@@ -57,6 +50,18 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=iribel97&theme=ambient-gradient)](https://git.io/streak-stats)
 
  <img src="https://github-readme-stats.vercel.app/api?username=iribel97&show_icons=true&include_all_commits=true&count_private=true&theme=moltack" alt="Irina's GitHub stats">
+
+ <div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=iribel97&theme=moltack&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="Irina's Streak of GitHub Commits">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=iribel97&show_icons=true&theme=moltack&rank_icon=github" alt="Irina's GitHub stats">
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iribel97&layout=compact&theme=moltack" alt="Irina's top languages">
+</p>
+
 
 **iribel97/iribel97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
