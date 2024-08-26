@@ -39,20 +39,16 @@
 ## Estadisticas
 
 
-
-<p align="left">
- 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iribel97&theme=ambient-gradient&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="Irina's Streak of GitHub Commits"></a>
-  
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=iribel97&theme=moltack&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="Irina's Streak of GitHub Commits">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=iribel97&show_icons=true&theme=moltack&rank_icon=github" alt="Irina's GitHub stats">
 </p>
 
-![Irina's GitHub stats](https://github-readme-stats.vercel.app/api?username=iribel97&show_icons=true\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&theme=moltack\&rank_icon=github)
-
-<p align="left">
-
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iribel97&layout=compact&theme=moltack" alt="Irina's top languages">
 </p>
-
 
 <!--
 
